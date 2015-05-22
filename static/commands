@@ -1,0 +1,11 @@
+-- run environment --
+workon coffeed
+
+-- start server --
+python manage.py runserver
+
+-- cancel server --
+Ctrl + C
+
+-- stop environment --
+deactivate
